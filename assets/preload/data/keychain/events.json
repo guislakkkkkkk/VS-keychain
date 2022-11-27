@@ -1,0 +1,146 @@
+{
+	"song": {
+		"events": [
+			[
+				25371.4285714286,
+				[
+					[
+						"Alt Idle Animation",
+						"GF",
+						"-wtf"
+					]
+				]
+			],
+			[
+				27428.5714285714,
+				[
+					[
+						"Alt Idle Animation",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				53057.1428571429,
+				[
+					[
+						"Alt Idle Animation",
+						"GF",
+						"-gr"
+					]
+				]
+			],
+			[
+				53485.7142857143,
+				[
+					[
+						"Alt Idle Animation",
+						"GF",
+						"-alt"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"lowkie"
+					],
+					[
+						"Play Animation",
+						"jumpin",
+						"Dad"
+					]
+				]
+			],
+			[
+				101485.714285714,
+				[
+					[
+						"Camera Follow Pos",
+						"90",
+						"460"
+					]
+				]
+			],
+			[
+				104228.571428571,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112457.142857143,
+				[
+					[
+						"Camera Follow Pos",
+						"90",
+						"460"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				123428.571428571,
+				[
+					[
+						"Camera Follow Pos",
+						"90",
+						"460"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				126171.428571428,
+				[
+					[
+						"Camera Follow Pos",
+						"90",
+						"460"
+					]
+				]
+			],
+			[
+				127542.857142857,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130971.428571428,
+				[
+					[
+						"Hey!",
+						"i love penis",
+						""
+					]
+				]
+			]
+		]
+	}
+}

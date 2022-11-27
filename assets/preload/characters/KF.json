@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KF idle"
+		},
+		{
+			"offsets": [
+				10,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KF Left0"
+		},
+		{
+			"offsets": [
+				-8,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KF Up0"
+		},
+		{
+			"offsets": [
+				-16,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KF Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-3
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "KF Left ACK",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-50
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "KF Down ACK",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				51
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "KF Up ACK",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "KF Right ACK",
+			"indices": []
+		},
+		{
+			"offsets": [
+				170,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shock",
+			"indices": [],
+			"name": "KF AUGGH"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KF Down0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/keyfriend",
+	"position": [
+		20,
+		280
+	],
+	"healthicon": "KFICON",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		168,
+		209
+	],
+	"camera_position": [
+		20,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

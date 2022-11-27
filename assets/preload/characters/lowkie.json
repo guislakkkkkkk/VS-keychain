@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lowkey idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lowkey left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lowkey down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				19
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lowkey up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lowkey right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				122
+			],
+			"anim": "jumpin",
+			"fps": 24,
+			"name": "LoKey Jumps",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lowkey_kinda_bad_thoug",
+	"position": [
+		120,
+		-200
+	],
+	"healthicon": "lowicon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-410,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

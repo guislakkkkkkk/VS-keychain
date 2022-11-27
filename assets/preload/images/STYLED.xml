@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="STYLED.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="STYLED0000" x="0" y="0" width="396" height="317"/>
+	<SubTexture name="STYLED0001" x="396" y="0" width="396" height="317"/>
+	<SubTexture name="STYLED0002" x="792" y="0" width="396" height="317"/>
+	<SubTexture name="STYLED0003" x="1188" y="0" width="396" height="317"/>
+	<SubTexture name="STYLED0004" x="1584" y="0" width="396" height="317"/>
+	<SubTexture name="STYLED0005" x="0" y="317" width="396" height="317"/>
+	<SubTexture name="STYLED0006" x="396" y="317" width="396" height="317"/>
+	<SubTexture name="STYLED0007" x="792" y="317" width="396" height="317"/>
+	<SubTexture name="STYLED0008" x="1188" y="317" width="396" height="317"/>
+	<SubTexture name="STYLED0009" x="1584" y="317" width="396" height="317"/>
+	<SubTexture name="STYLED0010" x="0" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0011" x="396" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0012" x="396" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0013" x="396" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0014" x="396" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0015" x="0" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0016" x="1584" y="317" width="396" height="317"/>
+	<SubTexture name="STYLED0017" x="792" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0018" x="1188" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0019" x="1188" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0020" x="1188" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0021" x="1188" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0022" x="1584" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0023" x="1584" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0024" x="1188" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0025" x="1188" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0026" x="1584" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0027" x="1584" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0028" x="1188" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0029" x="1584" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0030" x="1584" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0031" x="1584" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0032" x="1584" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0033" x="1584" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0034" x="1584" y="634" width="396" height="317"/>
+	<SubTexture name="STYLED0035" x="1584" y="634" width="396" height="317"/>
+</TextureAtlas>
