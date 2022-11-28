@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="loandgf.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gf IDLE NO LO0000" x="0" y="0" width="700" height="635" frameX="-2" frameY="-14" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0001" x="700" y="0" width="704" height="635" frameX="0" frameY="-14" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0002" x="1404" y="0" width="704" height="633" frameX="0" frameY="-16" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0003" x="2108" y="0" width="700" height="633" frameX="-2" frameY="-16" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0004" x="2808" y="0" width="700" height="636" frameX="-2" frameY="-13" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0005" x="3508" y="0" width="700" height="636" frameX="-2" frameY="-13" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0006" x="4208" y="0" width="700" height="637" frameX="-2" frameY="-12" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0007" x="4908" y="0" width="700" height="648" frameX="-2" frameY="-1" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0008" x="4908" y="0" width="700" height="648" frameX="-2" frameY="-1" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0009" x="4908" y="0" width="700" height="648" frameX="-2" frameY="-1" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0010" x="5608" y="0" width="700" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0011" x="5608" y="0" width="700" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0012" x="5608" y="0" width="700" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0013" x="6308" y="0" width="700" height="648" frameX="-2" frameY="-1" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0014" x="6308" y="0" width="700" height="648" frameX="-2" frameY="-1" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0015" x="7008" y="0" width="700" height="637" frameX="-2" frameY="-12" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0016" x="0" y="649" width="704" height="637" frameX="0" frameY="-12" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0017" x="704" y="649" width="704" height="637" frameX="0" frameY="-12" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0018" x="1408" y="649" width="700" height="637" frameX="-2" frameY="-12" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0019" x="2108" y="649" width="700" height="638" frameX="-2" frameY="-11" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0020" x="2808" y="649" width="700" height="638" frameX="-2" frameY="-11" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0021" x="3508" y="649" width="700" height="639" frameX="-2" frameY="-10" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0022" x="4208" y="649" width="700" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0023" x="4208" y="649" width="700" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0024" x="4208" y="649" width="700" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0025" x="4908" y="649" width="700" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0026" x="4908" y="649" width="700" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0027" x="4908" y="649" width="700" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0028" x="5608" y="649" width="700" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf IDLE NO LO0029" x="5608" y="649" width="700" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf and Lo Idle0000" x="6308" y="649" width="797" height="779" frameX="-14" frameY="-17" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0001" x="7105" y="649" width="799" height="779" frameX="-14" frameY="-17" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0002" x="0" y="1428" width="793" height="780" frameX="-20" frameY="-16" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0003" x="793" y="1428" width="791" height="780" frameX="-20" frameY="-16" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0004" x="1584" y="1428" width="794" height="789" frameX="-17" frameY="-7" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0005" x="2378" y="1428" width="794" height="789" frameX="-17" frameY="-7" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0006" x="3172" y="1428" width="798" height="795" frameX="-13" frameY="-1" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0007" x="3970" y="1428" width="801" height="796" frameX="-10" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0008" x="3970" y="1428" width="801" height="796" frameX="-10" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0009" x="4771" y="1428" width="801" height="796" frameX="-10" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0010" x="5572" y="1428" width="801" height="796" frameX="-10" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0011" x="5572" y="1428" width="801" height="796" frameX="-10" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0012" x="5572" y="1428" width="801" height="796" frameX="-10" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0013" x="6373" y="1428" width="803" height="796" frameX="-8" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0014" x="7176" y="1428" width="803" height="796" frameX="-8" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0015" x="0" y="2224" width="811" height="792" frameX="0" frameY="-4" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0016" x="811" y="2224" width="813" height="792" frameX="0" frameY="-4" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0017" x="1624" y="2224" width="810" height="791" frameX="-3" frameY="-5" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0018" x="2434" y="2224" width="808" height="791" frameX="-3" frameY="-5" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0019" x="3242" y="2224" width="801" height="791" frameX="-10" frameY="-5" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0020" x="4043" y="2224" width="801" height="791" frameX="-10" frameY="-5" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0021" x="4844" y="2224" width="799" height="793" frameX="-12" frameY="-3" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0022" x="5643" y="2224" width="798" height="796" frameX="-13" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0023" x="5643" y="2224" width="798" height="796" frameX="-13" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0024" x="6441" y="2224" width="798" height="796" frameX="-13" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0025" x="7239" y="2224" width="798" height="796" frameX="-13" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0026" x="0" y="3020" width="798" height="796" frameX="-13" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0027" x="0" y="3020" width="798" height="796" frameX="-13" frameY="0" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0028" x="798" y="3020" width="800" height="795" frameX="-11" frameY="-1" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle0029" x="1598" y="3020" width="800" height="792" frameX="-11" frameY="-4" frameWidth="813" frameHeight="796"/>
+	<SubTexture name="Gf and Lo Idle WtF 20000" x="2398" y="3020" width="797" height="768" frameX="0" frameY="-11" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20001" x="3195" y="3020" width="799" height="768" frameX="0" frameY="-11" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20002" x="3994" y="3020" width="793" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20003" x="4787" y="3020" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20004" x="5578" y="3020" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20005" x="6369" y="3020" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20006" x="7160" y="3020" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20007" x="0" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20008" x="0" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20009" x="0" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20010" x="791" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20011" x="791" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20012" x="791" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20013" x="1582" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20014" x="1582" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20015" x="2373" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20016" x="3164" y="3816" width="793" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20017" x="3957" y="3816" width="793" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20018" x="4750" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20019" x="5541" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20020" x="6332" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20021" x="7123" y="3816" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20022" x="0" y="4595" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20023" x="0" y="4595" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20024" x="0" y="4595" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20025" x="791" y="4595" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20026" x="791" y="4595" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20027" x="791" y="4595" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20028" x="1582" y="4595" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo Idle WtF 20029" x="1582" y="4595" width="791" height="779" frameX="-6" frameY="0" frameWidth="799" frameHeight="779"/>
+	<SubTexture name="Gf and Lo get ready0000" x="2373" y="4595" width="803" height="742" frameX="0" frameY="0" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0001" x="3176" y="4595" width="805" height="742"/>
+	<SubTexture name="Gf and Lo get ready0002" x="3981" y="4595" width="805" height="735" frameX="0" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0003" x="4786" y="4595" width="803" height="735" frameX="0" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0004" x="5589" y="4595" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0005" x="6391" y="4595" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0006" x="7193" y="4595" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0007" x="0" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0008" x="0" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0009" x="0" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0010" x="802" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0011" x="802" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0012" x="802" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0013" x="1604" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0014" x="1604" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0015" x="2406" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0016" x="3208" y="5374" width="804" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0017" x="4012" y="5374" width="804" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0018" x="4816" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0019" x="5618" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0020" x="6420" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0021" x="7222" y="5374" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0022" x="0" y="6109" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0023" x="0" y="6109" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0024" x="0" y="6109" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0025" x="802" y="6109" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0026" x="802" y="6109" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0027" x="802" y="6109" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0028" x="1604" y="6109" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+	<SubTexture name="Gf and Lo get ready0029" x="1604" y="6109" width="802" height="735" frameX="-1" frameY="-7" frameWidth="805" frameHeight="742"/>
+</TextureAtlas>
